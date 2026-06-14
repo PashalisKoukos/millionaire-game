@@ -38,7 +38,7 @@ No `pip install` needed — the game uses only Python's standard library.
 
 ---
 
-## 🎮 How to play
+## How to play
 
 1. Launch the game — a welcome screen will appear with the rules
 2. Press **Start!** to begin
