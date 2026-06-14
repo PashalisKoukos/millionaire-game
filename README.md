@@ -4,19 +4,6 @@ A fully featured **Who Wants to Be a Millionaire** quiz game built entirely with
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python) ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange) ![License](https://img.shields.io/badge/License-MIT-green)
 
----
-
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [How to run](#-how-to-run)
-- [How to play](#-how-to-play)
-- [Lifelines](#-lifelines)
-- [Prize Ladder](#-prize-ladder)
-- [Project Structure](#-project-structure)
-- [License](#-license)
-
----
 
 ## Features
 
