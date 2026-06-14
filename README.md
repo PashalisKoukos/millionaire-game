@@ -1,4 +1,4 @@
-# 🎯 Who Wants to Be a Millionaire?
+# Who Wants to Be a Millionaire?
 
 A fully featured **Who Wants to Be a Millionaire** quiz game built entirely with Python and Tkinter — no external libraries needed. Answer 15 questions correctly and walk away with **$1,000,000!**
 
@@ -18,20 +18,20 @@ A fully featured **Who Wants to Be a Millionaire** quiz game built entirely with
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎮 15 trivia questions across 5 difficulty levels
-- 💰 Prize ladder climbing up to **$1,000,000**
-- 🆘 3 lifelines: **50-50**, **Audience Poll**, **Phone a Friend**
-- 🔒 Safe zones at questions 5 and 10 — guaranteed money
-- 🛑 Stop at any time and keep your current prize
-- 🖥️ Full graphical interface built with Tkinter
-- 📋 In-game rules and external rules link
-- ⚠️ Error handling for unexpected crashes
+- 15 trivia questions across 5 difficulty levels
+- Prize ladder climbing up to **$1,000,000**
+- 3 lifelines: **50-50**, **Audience Poll**, **Phone a Friend**
+- Safe zones at questions 5 and 10 — guaranteed money
+- Stop at any time and keep your current prize
+- Full graphical interface built with Tkinter
+- In-game rules and external rules link
+- Error handling for unexpected crashes
 
 ---
 
-## 🚀 How to run
+## How to run
 
 ### Requirements
 - Python **3.10** or higher
@@ -62,7 +62,7 @@ No `pip install` needed — the game uses only Python's standard library.
 7. You can press **Stop** at any time to quit and keep your current winnings
 8. Answer all 15 questions correctly to win **$1,000,000!**
 
-### ⚠️ Important rules:
+### Important rules:
 - A wrong answer before **question 5** → you leave with **nothing**
 - A wrong answer between questions **5 and 10** → you keep the **question 5 prize**
 - A wrong answer after **question 10** → you keep the **question 10 prize**
@@ -70,22 +70,22 @@ No `pip install` needed — the game uses only Python's standard library.
 
 ---
 
-## 🆘 Lifelines
+## Lifelines
 
 You have **3 lifelines** available throughout the entire game. Each can only be used once.
 
-### ✂️ 50-50
+### 50-50
 Two wrong answers are removed at random, leaving only the correct answer and one wrong one. The round restarts with just two choices.
 
-### 👥 Audience Poll
+### Audience Poll
 The virtual audience votes on what they think the correct answer is. Results are shown as percentages — the audience is usually right, but not always!
 
-### 📞 Phone a Friend
+### Phone a Friend
 You get **45 seconds** to "call a friend". A countdown timer starts and a message reminds you to return to your question once time is up.
 
 ---
 
-## 💰 Prize Ladder
+##  Prize Ladder
 
 | # | Question | Prize | |
 |---|----------|-------|-|
